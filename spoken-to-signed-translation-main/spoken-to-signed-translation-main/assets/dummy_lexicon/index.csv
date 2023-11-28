@@ -1,5 +1,5 @@
 path,spoken_language,signed_language,start,end,words,glosses,priority
-sgg/how.pose,indian,sgg,0,0,how,How,0
-sgg/you.pose,indian,sgg,0,0,you,You,0
-sgg/eating.pose,indian,sgg,0,0,eating,Eating,0
-sgg/pizza.pose,indian,sgg,0,0,pizza,Pizza,0
+sgg/how.pose,english,sgg,0,0,how,How,0
+sgg/you.pose,english,sgg,0,0,you,You,0
+sgg/eating.pose,english,sgg,0,0,eating,Eating,0
+sgg/pizza.pose,english,sgg,0,0,pizza,Pizza,0
